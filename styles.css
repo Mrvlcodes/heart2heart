@@ -1,0 +1,35 @@
+body {
+    background-color: #ffcccc;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    text-align: center;
+    padding: 50px;
+  }
+  
+  #love-letter {
+    border: 2px solid #663300;
+    background-color: #ffeecc;
+    padding: 30px;
+    max-width: 600px;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #663300;
+  }
+  
+  #love-note {
+    font-size: 20px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    background-color: #663300;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #996633;
+  }
