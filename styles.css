@@ -40,4 +40,10 @@ button:hover {
   #love-letter {
     max-width: 100%;
   }
+  i{
+    font-size: 1.4rem;
+}
+  h1{
+    font-size:2rem;
+}
 }
